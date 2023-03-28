@@ -1,0 +1,288 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Libre Franklin', sans-serif;
+    background-color: black;
+}
+
+/*header*/
+
+.header{
+    background-image: url(img-main/gym2.jpg);
+}
+
+.header-inner{
+    background-color: black;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.time{
+    color: white;
+}
+
+.link{
+    color: #666666;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 16px;
+    padding-right: 20px;
+}
+
+.text-inner h1{
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 60px;
+    padding-bottom: 70px;
+    
+}
+
+
+.text-inner h1{
+    letter-spacing: 0.25px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 850px;
+    text-align: left;
+    color:#FFFFFF;
+    width: 370px;
+    font-size: 48px;
+    line-height: 58px;
+    padding-top: 317px;
+    
+    
+}
+
+.text-inner-button{
+    color: white;
+    margin-left: 350px;
+    background-image: url(img/Rectangle\ 466.png);
+    width: 150px;
+    height: 50px;
+}
+
+/*intro======================================================*/
+.intro-inner h1{
+    padding-top: 397px;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 59px;
+    letter-spacing: 0.25px;
+    text-align: center;
+    color: white;
+}
+
+.intro-inner p{
+    color: white;
+    text-align: center;
+    padding-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 712px;
+    height: 59px;
+}
+
+.img{
+    text-align: center;
+    line-height: 100px;
+    
+}
+
+
+
+.img-inner{
+    padding-right: 50%;
+    padding-left: 130px;
+}
+
+
+.img-inner{
+    display: flex;
+    padding-left: 600px;
+}
+
+.img-2{
+    text-align: center;
+    
+}
+
+/**text-inner2==============================================**/
+
+.text-inner2{
+    display: flex;
+}
+
+
+.text-inner2 h1{
+    color: white;
+    padding-top: 186px;
+    padding-left: 157px;
+    width: 363px;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px
+    
+}
+
+.text-inner2 p{
+    color: white;
+    width: 550px;
+    height: 400px;
+    padding-left: 20%;
+    padding-top: 220px;
+    text-align: left;
+}
+
+
+/**gallery============================================================**/
+.gallery-inner{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.text-inner3{
+   width: 520px;
+   text-align: left;
+   padding-right: 450px
+}
+
+
+.text-inner3 h1{
+    border: 30px;
+
+}
+
+.text-inner3 p{
+    line-height: 25px;
+    width: 405px;
+    text-align: left;
+}
+
+
+/**gallery-2=======================================================**/
+.class-1 {
+   text-align: right;
+}
+
+.class-2 {
+    padding-left: 135px;
+}
+
+.class-3 {
+    padding-left: 50px;
+    padding-bottom: 200px;
+}
+
+.class-4 {
+    padding-left: 50px;
+}
+
+.text-inner4{
+    color: white;
+    text-align: center;
+}
+.text-inner4 p{
+    width: 300px;
+    padding-left: 800px;
+    text-align: center;
+    line-height: 23px;
+    padding-top: 20px;
+}
+
+
+/*high-footer================================================================*/
+.high-footer{
+    background-image: url(img/Rectangle\ 486.png);
+  }
+  
+  .text-inner5{
+      color: white;
+      text-align: center;
+      margin-top: 100px;
+      padding-top: 30px;
+  }
+  
+  .text-inner5 h1{
+      line-height: 60px;
+  }
+  
+  .text-inner5 p{
+      border: 20px;
+      font-size: 18px;
+  }
+  
+  .buttons h2{
+      padding: 15px;
+      font-weight: 500;
+      max-width: 400px;
+      margin-left: 700px;
+      border-bottom-color: white;
+      border-bottom-width: 1px;
+      border: 2px solid white;
+      margin-top: 30px;
+  }
+  .buttons h3{
+      color: black;
+      font-weight: 500;
+      max-width: 400px;
+      background-color: white;
+      margin-left: 700px;
+      padding: 15px;
+      border-bottom-color: white;
+      border-bottom-width: 1px;
+      border: 2px solid white;
+      margin-top: 16px;
+  }
+  
+  
+  /*footer=========================================================================*/
+  /*footer-1*/
+  
+  .footer{
+      margin: 377px;
+      display: flex;
+      padding-top: 100px;
+  }
+  
+  .footer-inner h1{
+      color: white;
+      padding-left: 500px;
+  }
+
+
+  .footer-1{
+    padding-top: 60px;
+  }
+  
+  
+  .footer-1 p{
+      color: white;
+      width: 300px;
+      line-height: 36px;
+     
+  }
+  
+  .footer-flex-nav{
+      color: white;
+      font-weight: 500;
+      font-size: 18px;
+      margin: 50px;
+      padding-bottom: 200px;
+      line-height: 40px;
+  }
+  
+  .footer-inner{
+      display: flex;
+      justify-content: space-between;
+  }
+  
+  .END{
+      color: white;
+      text-align: center;
+  }
