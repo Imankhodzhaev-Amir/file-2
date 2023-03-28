@@ -1,0 +1,23 @@
+body{
+    background-image: url(img/тестирование.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    
+    
+}
+
+.header{
+    width: auto;
+    height: 100px;
+    
+    
+    
+}
+
+.header-inner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
